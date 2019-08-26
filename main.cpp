@@ -15,10 +15,10 @@ struct zpdw
 
 zpdw people[ArSize]
 {
-    {"Kosinski", "Elektryk", "Kosa", 0},
+    {"Kulasinski", "Elektryk", "Kosa", 0},
     {"Swiatek", "Bankowiec", "Gruby", 2},
     {"Abucewicz", "Elektronik", "Lysy", 1},
-    {"Kot", "Monter", "Gitarzysta", 2} //people[3].preferencje  tak sie dochodzi do konkretnej wartosci
+    {"Kot", "Monter", "Gitarzysta", 2} 
 };
 void showmenu();  //prototyp
 
