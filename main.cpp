@@ -17,7 +17,7 @@ zpdw people[ArSize]
 {
     {"Kulasinski", "Elektryk", "Kosa", 0},
     {"Swiatek", "Bankowiec", "Gruby", 2},
-    {"Abucewicz", "Elektronik", "Lysy", 1},
+    {"Leon", "Siatkarz", "Wysoki", 1},
     {"Kot", "Monter", "Gitarzysta", 2} 
 };
 void showmenu();  //prototyp
